@@ -32,7 +32,7 @@ It allows you to effortlessly and quickly transfer data—whether a string, numb
 
 ## Usage
 
-Navigate to the ```source``` folder within the ```QuickShareOne``` directory. From there, you can run ```python -m qsom.py```.
+Navigate to the ```source``` folder within the ```QuickShareOne``` directory. From there, you can run ```python qsom.py```.
 
 You will be presented with a welcome message and an input prompt. Once submitted, your device’s default image preview software will open with the newly generated QR code.
 
