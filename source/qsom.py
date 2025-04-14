@@ -1,5 +1,5 @@
 from PIL import Image
-from utils.console.worker import *
+from utils.termcolor.worker import *
 from utils.qr.worker import *
     
 def QuickShareOne():
